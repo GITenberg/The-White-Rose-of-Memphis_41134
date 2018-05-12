@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40997
     wikipedia: http://en.wikipedia.org/wiki/William_Clark_Falkner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41134#The-White-Rose-of-Memphis
 gutenberg_issued: '2012-10-21'
 gutenberg_type: Text
 identifiers:
